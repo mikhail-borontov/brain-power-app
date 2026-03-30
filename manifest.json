@@ -1,18 +1,17 @@
 {
   "short_name": "Main Hero",
-  "name": "Main Hero — 5 героев, 5 суперсил",
-  "description": "Собери команду героев. Освой суперсилы. Стань легендой.",
+  "name": "Main Hero — 20 героев, 20 суперсил",
+  "description": "Прокачай свой мозг! 20 героев, 60 техник для подростков.",
   "icons": [
     {
-      "src": "favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
     },
     {
-      "src": "heroes/main-hero.png",
-      "sizes": "512x512",
+      "src": "logo512.png",
       "type": "image/png",
+      "sizes": "512x512",
       "purpose": "any maskable"
     }
   ],
