@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/brain-power-app/static/css/main.f855e6bc.css",
-    "main.js": "/brain-power-app/static/js/main.2f08ca43.js",
+    "main.js": "/brain-power-app/static/js/main.f00cffeb.js",
     "static/js/453.2d195889.chunk.js": "/brain-power-app/static/js/453.2d195889.chunk.js",
     "index.html": "/brain-power-app/index.html",
     "main.f855e6bc.css.map": "/brain-power-app/static/css/main.f855e6bc.css.map",
-    "main.2f08ca43.js.map": "/brain-power-app/static/js/main.2f08ca43.js.map",
+    "main.f00cffeb.js.map": "/brain-power-app/static/js/main.f00cffeb.js.map",
     "453.2d195889.chunk.js.map": "/brain-power-app/static/js/453.2d195889.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2f08ca43.js"
+    "static/js/main.f00cffeb.js"
   ]
 }
